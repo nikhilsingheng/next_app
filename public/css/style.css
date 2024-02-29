@@ -1,0 +1,29 @@
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+.footer {
+  background-color: #361e1e;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.card_heigth {
+  height: 280px !important;
+}
+.btn_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn_next {
+  margin-right: 10px;
+}
